@@ -11,8 +11,8 @@ Lending (Peer-to-Peer Lending)
 **ML Use Case**:  
 Customer classfication according to their defualt risk on loans.
 
-**SVM model selected**:  
-random forect 
+**ML model selected**:  
+Support vector machines (SVM)
 
 **Reason**: 
 Because the model is good in a classification of 2 classes and gives accurate results in unbalanced data classification.
